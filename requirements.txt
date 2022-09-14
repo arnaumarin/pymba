@@ -1,5 +1,10 @@
 # Required for some camera functions
-numpy
+numpy~=1.21.5
 
 # Required for some camera examples
-opencv-python
+opencv-python~=4.6.0.66
+
+typing~=3.7.4.3
+setuptools~=58.1.0
+pyserial~=3.5
+time~
